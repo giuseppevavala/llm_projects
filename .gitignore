@@ -1,3 +1,6 @@
 .venv/
 output.md
 __pycache__/
+.env
+.DS_Store
+.vscode
