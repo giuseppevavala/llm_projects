@@ -4,8 +4,8 @@ from abc import ABC, abstractmethod
 from typing import List, Dict
 from enum import Enum
 
-from ..utils.decorators import log_execution_time
-from ..utils.config import Configuration
+from my_llm_sdk.utils.decorators import log_execution_time
+from my_llm_sdk.utils.config import Configuration
 
 class ModelName(Enum):
     pass

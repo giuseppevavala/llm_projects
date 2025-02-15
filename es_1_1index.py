@@ -1,7 +1,7 @@
 import logging
 import os
 
-from models.factory import ModelFactory, ModelType
+from my_llm_sdk.models.factory import ModelFactory, ModelType
 
 SYSTEM_PROMPT = "Il tuo unico compito è convertire file di mappe mentali dal formato txt in file mark down, in modo che siano compatibili con Xmind."
 

@@ -1,7 +1,3 @@
-def hello():
-    print ("Hello")
-
-
 # class ClaudeRequestHandler(RequestHandler):
 #     def prepare_request(self, messages: List[Dict[str, str]], **kwargs) -> Dict:
 #         return {
