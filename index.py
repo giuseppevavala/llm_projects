@@ -1,9 +1,8 @@
 import logging
-import os
 import json
 
-from models.factory import ModelFactory
-from models.open_ai import OpenAiModelName
+from my_llm_sdk.models.factory import ModelFactory
+from my_llm_sdk.models.open_ai import OpenAiModelName
 
 SYSTEM_PROMPT = '''
 # ROLE

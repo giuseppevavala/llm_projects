@@ -1,6 +1,6 @@
 import requests
 
-from models.base import LanguageModel, RequestHandler, ModelName
+from .base import LanguageModel, RequestHandler, ModelName
 from typing import List, Dict
 
 class OpenAiModelName(ModelName):

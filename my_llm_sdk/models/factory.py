@@ -1,8 +1,8 @@
 from enum import Enum
 
-from models.open_ai import OpenAiModelName, OpenAIModel
-from models.base import LanguageModel
-from models.base import ModelName
+from .open_ai import OpenAiModelName, OpenAIModel
+from .base import LanguageModel
+from .base import ModelName
 
 # class ModelFamily(Enum):
 #     OPENAI = "openai"
