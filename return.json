@@ -1,0 +1,446 @@
+[
+    {
+      "type": "verb",
+      "word": "rescue",
+      "translate_in_context": "salvare",
+      "common_translate": "salvare"
+    },
+    {
+      "type": "verb",
+      "word": "kidnap",
+      "translate_in_context": "rapire",
+      "common_translate": "rapire"
+    },
+    {
+      "type": "verb",
+      "word": "corner",
+      "translate_in_context": "intrappolare",
+      "common_translate": "mettere all'angolo"
+    },
+    {
+      "type": "verb",
+      "word": "hold",
+      "translate_in_context": "stringere",
+      "common_translate": "tenere"
+    },
+    {
+      "type": "verb",
+      "word": "plunge",
+      "translate_in_context": "tuffarsi",
+      "common_translate": "precipitare"
+    },
+    {
+      "type": "verb",
+      "word": "hunt down",
+      "translate_in_context": "dare la caccia",
+      "common_translate": "cacciare"
+    },
+    {
+      "type": "verb",
+      "word": "finish off",
+      "translate_in_context": "eliminare",
+      "common_translate": "finire"
+    },
+    {
+      "type": "verb",
+      "word": "flow",
+      "translate_in_context": "emanare",
+      "common_translate": "fluire"
+    },
+    {
+      "type": "verb",
+      "word": "arrive",
+      "translate_in_context": "arrivare",
+      "common_translate": "arrivare"
+    },
+    {
+      "type": "verb",
+      "word": "block",
+      "translate_in_context": "bloccare",
+      "common_translate": "bloccare"
+    },
+    {
+      "type": "verb",
+      "word": "take",
+      "translate_in_context": "portare",
+      "common_translate": "prendere"
+    },
+    {
+      "type": "verb",
+      "word": "keep",
+      "translate_in_context": "tenere",
+      "common_translate": "mantenere"
+    },
+    {
+      "type": "verb",
+      "word": "teach",
+      "translate_in_context": "insegnare",
+      "common_translate": "insegnare"
+    },
+    {
+      "type": "verb",
+      "word": "avoid",
+      "translate_in_context": "evitare",
+      "common_translate": "evitare"
+    },
+    {
+      "type": "verb",
+      "word": "slaughter",
+      "translate_in_context": "massacrare",
+      "common_translate": "macellare"
+    },
+    {
+      "type": "verb",
+      "word": "dodge",
+      "translate_in_context": "schivare",
+      "common_translate": "schivare"
+    },
+    {
+      "type": "verb",
+      "word": "wait",
+      "translate_in_context": "aspettare",
+      "common_translate": "aspettare"
+    },
+    {
+      "type": "verb",
+      "word": "show",
+      "translate_in_context": "mostrare",
+      "common_translate": "mostrare"
+    },
+    {
+      "type": "verb",
+      "word": "tame",
+      "translate_in_context": "domare",
+      "common_translate": "addomesticare"
+    },
+    {
+      "type": "verb",
+      "word": "rot",
+      "translate_in_context": "marcire",
+      "common_translate": "marcire"
+    },
+    {
+      "type": "verb",
+      "word": "ruin",
+      "translate_in_context": "rovinare",
+      "common_translate": "rovinare"
+    },
+    {
+      "type": "verb",
+      "word": "give up",
+      "translate_in_context": "arrendersi",
+      "common_translate": "rinunciare"
+    },
+    {
+      "type": "verb",
+      "word": "expect",
+      "translate_in_context": "aspettarsi",
+      "common_translate": "aspettarsi"
+    },
+    {
+      "type": "verb",
+      "word": "stick",
+      "translate_in_context": "attenersi",
+      "common_translate": "attaccare"
+    },
+    {
+      "type": "verb",
+      "word": "babble",
+      "translate_in_context": "blaterare",
+      "common_translate": "balbettare"
+    },
+    {
+      "type": "verb",
+      "word": "try",
+      "translate_in_context": "provare",
+      "common_translate": "tentare"
+    },
+    {
+      "type": "verb",
+      "word": "die",
+      "translate_in_context": "morire",
+      "common_translate": "morire"
+    },
+    {
+      "type": "verb",
+      "word": "hang",
+      "translate_in_context": "resistere",
+      "common_translate": "appendere"
+    },
+    {
+      "type": "verb",
+      "word": "wake up",
+      "translate_in_context": "svegliarsi",
+      "common_translate": "svegliarsi"
+    },
+    {
+      "type": "verb",
+      "word": "catch",
+      "translate_in_context": "afferrare",
+      "common_translate": "prendere"
+    },
+    {
+      "type": "verb",
+      "word": "crush",
+      "translate_in_context": "schiacciare",
+      "common_translate": "frantumare"
+    },
+    {
+      "type": "verb",
+      "word": "suffer",
+      "translate_in_context": "soffrire",
+      "common_translate": "soffrire"
+    },
+    {
+      "type": "verb",
+      "word": "compete",
+      "translate_in_context": "competere",
+      "common_translate": "competere"
+    },
+    {
+      "type": "verb",
+      "word": "dream",
+      "translate_in_context": "sognare",
+      "common_translate": "sognare"
+    },
+    {
+      "type": "verb",
+      "word": "hallucinate",
+      "translate_in_context": "avere allucinazioni",
+      "common_translate": "allucinare"
+    },
+    {
+      "type": "verb",
+      "word": "disgrace",
+      "translate_in_context": "disonorare",
+      "common_translate": "disonorare"
+    },
+    {
+      "type": "verb",
+      "word": "beat",
+      "translate_in_context": "sconfiggere",
+      "common_translate": "battere"
+    },
+    {
+      "type": "verb",
+      "word": "bother",
+      "translate_in_context": "preoccuparsi",
+      "common_translate": "disturbare"
+    },
+    {
+      "type": "verb",
+      "word": "fall",
+      "translate_in_context": "cadere",
+      "common_translate": "cadere"
+    },
+    {
+      "type": "verb",
+      "word": "stake",
+      "translate_in_context": "scommettere",
+      "common_translate": "puntare"
+    },
+    {
+      "type": "adjective",
+      "word": "narrow",
+      "translate_in_context": "per un pelo",
+      "common_translate": "stretto"
+    },
+    {
+      "type": "adjective",
+      "word": "sudden",
+      "translate_in_context": "improvviso",
+      "common_translate": "improvviso"
+    },
+    {
+      "type": "adjective",
+      "word": "tight",
+      "translate_in_context": "stretto",
+      "common_translate": "stretto"
+    },
+    {
+      "type": "adjective",
+      "word": "grave",
+      "translate_in_context": "grave",
+      "common_translate": "grave"
+    },
+    {
+      "type": "adjective",
+      "word": "immense",
+      "translate_in_context": "immenso",
+      "common_translate": "immenso"
+    },
+    {
+      "type": "adjective",
+      "word": "villainous",
+      "translate_in_context": "malvagio",
+      "common_translate": "criminale"
+    },
+    {
+      "type": "adjective",
+      "word": "puny",
+      "translate_in_context": "insignificante",
+      "common_translate": "minuscolo"
+    },
+    {
+      "type": "adjective",
+      "word": "pointless",
+      "translate_in_context": "inutile",
+      "common_translate": "senza senso"
+    },
+    {
+      "type": "adjective",
+      "word": "insolent",
+      "translate_in_context": "insolente",
+      "common_translate": "insolente"
+    },
+    {
+      "type": "adjective",
+      "word": "annoying",
+      "translate_in_context": "fastidioso",
+      "common_translate": "irritante"
+    },
+    {
+      "type": "adjective",
+      "word": "great",
+      "translate_in_context": "grande",
+      "common_translate": "grande"
+    },
+    {
+      "type": "adjective",
+      "word": "pathetic",
+      "translate_in_context": "patetico",
+      "common_translate": "patetico"
+    },
+    {
+      "type": "adjective",
+      "word": "cute",
+      "translate_in_context": "carino",
+      "common_translate": "carino"
+    },
+    {
+      "type": "adjective",
+      "word": "angry",
+      "translate_in_context": "arrabbiato",
+      "common_translate": "arrabbiato"
+    },
+    {
+      "type": "adjective",
+      "word": "worth",
+      "translate_in_context": "degno",
+      "common_translate": "che vale"
+    },
+    {
+      "type": "adjective",
+      "word": "dead",
+      "translate_in_context": "morto",
+      "common_translate": "morto"
+    },
+    {
+      "type": "adjective",
+      "word": "lucky",
+      "translate_in_context": "fortunato",
+      "common_translate": "fortunato"
+    },
+    {
+      "type": "adjective",
+      "word": "divine",
+      "translate_in_context": "divino",
+      "common_translate": "divino"
+    },
+    {
+      "type": "adjective",
+      "word": "lowly",
+      "translate_in_context": "infimo",
+      "common_translate": "umile"
+    },
+    {
+      "type": "adjective",
+      "word": "mighty",
+      "translate_in_context": "potente",
+      "common_translate": "possente"
+    },
+    {
+      "type": "adjective",
+      "word": "impressive",
+      "translate_in_context": "impressionante",
+      "common_translate": "impressionante"
+    },
+    {
+      "type": "adjective",
+      "word": "normal",
+      "translate_in_context": "normale",
+      "common_translate": "normale"
+    },
+    {
+      "type": "adjective",
+      "word": "little",
+      "translate_in_context": "piccolo",
+      "common_translate": "piccolo"
+    },
+    {
+      "type": "adjective",
+      "word": "smug",
+      "translate_in_context": "presuntuoso",
+      "common_translate": "compiaciuto"
+    },
+    {
+      "type": "adjective",
+      "word": "easy",
+      "translate_in_context": "facile",
+      "common_translate": "facile"
+    },
+    {
+      "type": "adjective",
+      "word": "strong",
+      "translate_in_context": "forte",
+      "common_translate": "forte"
+    },
+    {
+      "type": "adjective",
+      "word": "ordinary",
+      "translate_in_context": "ordinario",
+      "common_translate": "ordinario"
+    },
+    {
+      "type": "adjective",
+      "word": "special",
+      "translate_in_context": "speciale",
+      "common_translate": "speciale"
+    },
+    {
+      "type": "adjective",
+      "word": "horrific",
+      "translate_in_context": "orribile",
+      "common_translate": "terrificante"
+    },
+    {
+      "type": "adjective",
+      "word": "persistent",
+      "translate_in_context": "persistente",
+      "common_translate": "persistente"
+    },
+    {
+      "type": "adjective",
+      "word": "superior",
+      "translate_in_context": "superiore",
+      "common_translate": "superiore"
+    },
+    {
+      "type": "adjective",
+      "word": "weak",
+      "translate_in_context": "debole",
+      "common_translate": "debole"
+    },
+    {
+      "type": "adjective",
+      "word": "real",
+      "translate_in_context": "vero",
+      "common_translate": "reale"
+    },
+    {
+      "type": "adjective",
+      "word": "proud",
+      "translate_in_context": "orgoglioso",
+      "common_translate": "orgoglioso"
+    }
+  ]

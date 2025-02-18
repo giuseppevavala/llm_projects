@@ -1,0 +1,446 @@
+[
+    {
+        "word": "rescue",
+        "type": "verb",
+        "is_known": true,
+        "translate": "salvare"
+    },
+    {
+        "word": "kidnap",
+        "type": "verb",
+        "is_known": false,
+        "translate": "rapire"
+    },
+    {
+        "word": "corner",
+        "type": "verb",
+        "is_known": false,
+        "translate": "intrappolare , mettere all'angolo"
+    },
+    {
+        "word": "hold",
+        "type": "verb",
+        "is_known": true,
+        "translate": "stringere , tenere"
+    },
+    {
+        "word": "plunge",
+        "type": "verb",
+        "is_known": false,
+        "translate": "tuffarsi , precipitare"
+    },
+    {
+        "word": "hunt down",
+        "type": "verb",
+        "is_known": false,
+        "translate": "dare la caccia , cacciare"
+    },
+    {
+        "word": "finish off",
+        "type": "verb",
+        "is_known": true,
+        "translate": "eliminare , finire"
+    },
+    {
+        "word": "flow",
+        "type": "verb",
+        "is_known": true,
+        "translate": "emanare , fluire"
+    },
+    {
+        "word": "arrive",
+        "type": "verb",
+        "is_known": false,
+        "translate": "arrivare"
+    },
+    {
+        "word": "block",
+        "type": "verb",
+        "is_known": true,
+        "translate": "bloccare"
+    },
+    {
+        "word": "take",
+        "type": "verb",
+        "is_known": true,
+        "translate": "portare , prendere"
+    },
+    {
+        "word": "keep",
+        "type": "verb",
+        "is_known": true,
+        "translate": "tenere , mantenere"
+    },
+    {
+        "word": "teach",
+        "type": "verb",
+        "is_known": true,
+        "translate": "insegnare"
+    },
+    {
+        "word": "avoid",
+        "type": "verb",
+        "is_known": true,
+        "translate": "evitare"
+    },
+    {
+        "word": "slaughter",
+        "type": "verb",
+        "is_known": false,
+        "translate": "massacrare , macellare"
+    },
+    {
+        "word": "dodge",
+        "type": "verb",
+        "is_known": true,
+        "translate": "schivare"
+    },
+    {
+        "word": "wait",
+        "type": "verb",
+        "is_known": true,
+        "translate": "aspettare"
+    },
+    {
+        "word": "show",
+        "type": "verb",
+        "is_known": true,
+        "translate": "mostrare"
+    },
+    {
+        "word": "tame",
+        "type": "verb",
+        "is_known": false,
+        "translate": "domare , addomesticare"
+    },
+    {
+        "word": "rot",
+        "type": "verb",
+        "is_known": false,
+        "translate": "marcire"
+    },
+    {
+        "word": "ruin",
+        "type": "verb",
+        "is_known": false,
+        "translate": "rovinare"
+    },
+    {
+        "word": "give up",
+        "type": "verb",
+        "is_known": true,
+        "translate": "arrendersi , rinunciare"
+    },
+    {
+        "word": "expect",
+        "type": "verb",
+        "is_known": true,
+        "translate": "aspettarsi"
+    },
+    {
+        "word": "stick",
+        "type": "verb",
+        "is_known": true,
+        "translate": "attenersi , attaccare"
+    },
+    {
+        "word": "babble",
+        "type": "verb",
+        "is_known": false,
+        "translate": "blaterare , balbettare"
+    },
+    {
+        "word": "try",
+        "type": "verb",
+        "is_known": true,
+        "translate": "provare , tentare"
+    },
+    {
+        "word": "die",
+        "type": "verb",
+        "is_known": true,
+        "translate": "morire"
+    },
+    {
+        "word": "hang",
+        "type": "verb",
+        "is_known": false,
+        "translate": "resistere , appendere"
+    },
+    {
+        "word": "wake up",
+        "type": "verb",
+        "is_known": true,
+        "translate": "svegliarsi"
+    },
+    {
+        "word": "catch",
+        "type": "verb",
+        "is_known": true,
+        "translate": "afferrare , prendere"
+    },
+    {
+        "word": "crush",
+        "type": "verb",
+        "is_known": false,
+        "translate": "schiacciare , frantumare"
+    },
+    {
+        "word": "suffer",
+        "type": "verb",
+        "is_known": true,
+        "translate": "soffrire"
+    },
+    {
+        "word": "compete",
+        "type": "verb",
+        "is_known": true,
+        "translate": "competere"
+    },
+    {
+        "word": "dream",
+        "type": "verb",
+        "is_known": true,
+        "translate": "sognare"
+    },
+    {
+        "word": "hallucinate",
+        "type": "verb",
+        "is_known": true,
+        "translate": "avere allucinazioni , allucinare"
+    },
+    {
+        "word": "disgrace",
+        "type": "verb",
+        "is_known": false,
+        "translate": "disonorare"
+    },
+    {
+        "word": "beat",
+        "type": "verb",
+        "is_known": true,
+        "translate": "sconfiggere , battere"
+    },
+    {
+        "word": "bother",
+        "type": "verb",
+        "is_known": false,
+        "translate": "preoccuparsi , disturbare"
+    },
+    {
+        "word": "fall",
+        "type": "verb",
+        "is_known": true,
+        "translate": "cadere"
+    },
+    {
+        "word": "stake",
+        "type": "verb",
+        "is_known": false,
+        "translate": "scommettere , puntare"
+    },
+    {
+        "word": "narrow",
+        "type": "adjective",
+        "is_known": false,
+        "translate": "per un pelo , stretto"
+    },
+    {
+        "word": "sudden",
+        "type": "adjective",
+        "is_known": false,
+        "translate": "improvviso"
+    },
+    {
+        "word": "tight",
+        "type": "adjective",
+        "is_known": false,
+        "translate": "stretto"
+    },
+    {
+        "word": "grave",
+        "type": "adjective",
+        "is_known": false,
+        "translate": "grave"
+    },
+    {
+        "word": "immense",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "immenso"
+    },
+    {
+        "word": "villainous",
+        "type": "adjective",
+        "is_known": false,
+        "translate": "malvagio , criminale"
+    },
+    {
+        "word": "puny",
+        "type": "adjective",
+        "is_known": false,
+        "translate": "insignificante , minuscolo"
+    },
+    {
+        "word": "pointless",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "inutile , senza senso"
+    },
+    {
+        "word": "insolent",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "insolente"
+    },
+    {
+        "word": "annoying",
+        "type": "adjective",
+        "is_known": false,
+        "translate": "fastidioso , irritante"
+    },
+    {
+        "word": "great",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "grande"
+    },
+    {
+        "word": "pathetic",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "patetico"
+    },
+    {
+        "word": "cute",
+        "type": "adjective",
+        "is_known": false,
+        "translate": "carino"
+    },
+    {
+        "word": "angry",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "arrabbiato"
+    },
+    {
+        "word": "worth",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "degno , che vale"
+    },
+    {
+        "word": "dead",
+        "type": "adjective",
+        "is_known": false,
+        "translate": "morto"
+    },
+    {
+        "word": "lucky",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "fortunato"
+    },
+    {
+        "word": "divine",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "divino"
+    },
+    {
+        "word": "lowly",
+        "type": "adjective",
+        "is_known": false,
+        "translate": "infimo , umile"
+    },
+    {
+        "word": "mighty",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "potente , possente"
+    },
+    {
+        "word": "impressive",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "impressionante"
+    },
+    {
+        "word": "normal",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "normale"
+    },
+    {
+        "word": "little",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "piccolo"
+    },
+    {
+        "word": "smug",
+        "type": "adjective",
+        "is_known": false,
+        "translate": "presuntuoso , compiaciuto"
+    },
+    {
+        "word": "easy",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "facile"
+    },
+    {
+        "word": "strong",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "forte"
+    },
+    {
+        "word": "ordinary",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "ordinario"
+    },
+    {
+        "word": "special",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "speciale"
+    },
+    {
+        "word": "horrific",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "orribile , terrificante"
+    },
+    {
+        "word": "persistent",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "persistente"
+    },
+    {
+        "word": "superior",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "superiore"
+    },
+    {
+        "word": "weak",
+        "type": "adjective",
+        "is_known": false,
+        "translate": "debole"
+    },
+    {
+        "word": "real",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "vero , reale"
+    },
+    {
+        "word": "proud",
+        "type": "adjective",
+        "is_known": true,
+        "translate": "orgoglioso"
+    }
+]

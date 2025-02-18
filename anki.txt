@@ -1,0 +1,30 @@
+#separator:tab
+#html:true
+#tags column:3
+kidnap (verb)	rapire
+corner (verb)	intrappolare , mettere all'angolo
+plunge (verb)	tuffarsi , precipitare
+hunt down (verb)	dare la caccia , cacciare
+arrive (verb)	arrivare
+slaughter (verb)	massacrare , macellare
+tame (verb)	domare , addomesticare
+rot (verb)	marcire
+ruin (verb)	rovinare
+babble (verb)	blaterare , balbettare
+hang (verb)	resistere , appendere
+crush (verb)	schiacciare , frantumare
+disgrace (verb)	disonorare
+bother (verb)	preoccuparsi , disturbare
+stake (verb)	scommettere , puntare
+narrow (adjective)	per un pelo , stretto
+sudden (adjective)	improvviso
+tight (adjective)	stretto
+grave (adjective)	grave
+villainous (adjective)	malvagio , criminale
+puny (adjective)	insignificante , minuscolo
+annoying (adjective)	fastidioso , irritante
+cute (adjective)	carino
+dead (adjective)	morto
+lowly (adjective)	infimo , umile
+smug (adjective)	presuntuoso , compiaciuto
+weak (adjective)	debole

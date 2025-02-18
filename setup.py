@@ -7,5 +7,8 @@ setup(
     install_requires=[
         "requests",
         "python-dotenv"
+        "spacy",
+        "nltk",
+        "textblob"
     ],
 )
